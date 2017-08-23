@@ -7,7 +7,8 @@ However, I spent my free time to learnig more about Python and Machine Learning 
 
 # My solution
 In my point of view, I used a basic solution applying a recursive approach to read a subset of arrays. I did it, because I think that is elegant and more clean. Less is more :)
-I follow the instructions and I included my test case in this projet, but I included it separeted because I think it's better and more organized.
+
+Furthermore, I follow the instructions and I included my test case in this projet, but I included it separeted because I think it's better and more organized.
 
 # Instructions for use/install:
 1 - I used the Pydev IDE to develop this solution. So if you want to load all the files and the entire project, I'll suggest to use the PyDev IDE. 
