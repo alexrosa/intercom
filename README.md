@@ -8,7 +8,7 @@ However, I spent my free time to learnig more about Python and Machine Learning.
 # My solution
 In my point of view, I used a basic solution applying a recursive approach to read a subset of arrays. I did it, because I think that is elegant and more clean. Less is more :)
 
-# Instructions for install:
+# Instructions for use/install:
 1 - I used the Pydev IDE to develop this solution. So if you want to load all the files and the entire project, I'll suggest to use the PyDev IDE. 
 
 2 - I'll suggest you to start running the test module, which is possible to find in the package (folder): test.array_list_test.py.
